@@ -1,5 +1,5 @@
 require 'webrick'
-
+#
 
 ## Set the path to serve files from to the public directory in this project
 root = File.expand_path 'public'
